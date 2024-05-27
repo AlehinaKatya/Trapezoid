@@ -1,0 +1,10 @@
+C:\Users\79192\OneDrive\Рабочий стол\Катя\3 курс ПММ\6 семестр\КГ_2\КГ_2\bin\Debug\КГ_2.exe.config
+C:\Users\79192\OneDrive\Рабочий стол\Катя\3 курс ПММ\6 семестр\КГ_2\КГ_2\bin\Debug\КГ_2.exe
+C:\Users\79192\OneDrive\Рабочий стол\Катя\3 курс ПММ\6 семестр\КГ_2\КГ_2\bin\Debug\КГ_2.pdb
+C:\Users\79192\OneDrive\Рабочий стол\Катя\3 курс ПММ\6 семестр\КГ_2\КГ_2\obj\Debug\КГ_2.csproj.AssemblyReference.cache
+C:\Users\79192\OneDrive\Рабочий стол\Катя\3 курс ПММ\6 семестр\КГ_2\КГ_2\obj\Debug\КГ_2.Form1.resources
+C:\Users\79192\OneDrive\Рабочий стол\Катя\3 курс ПММ\6 семестр\КГ_2\КГ_2\obj\Debug\КГ_2.Properties.Resources.resources
+C:\Users\79192\OneDrive\Рабочий стол\Катя\3 курс ПММ\6 семестр\КГ_2\КГ_2\obj\Debug\КГ_2.csproj.GenerateResource.cache
+C:\Users\79192\OneDrive\Рабочий стол\Катя\3 курс ПММ\6 семестр\КГ_2\КГ_2\obj\Debug\КГ_2.csproj.CoreCompileInputs.cache
+C:\Users\79192\OneDrive\Рабочий стол\Катя\3 курс ПММ\6 семестр\КГ_2\КГ_2\obj\Debug\КГ_2.exe
+C:\Users\79192\OneDrive\Рабочий стол\Катя\3 курс ПММ\6 семестр\КГ_2\КГ_2\obj\Debug\КГ_2.pdb
